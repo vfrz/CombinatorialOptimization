@@ -8,9 +8,6 @@ namespace CombinatorialOptimization
         {
             var algorithm = new GeneticAlgorithm
             {
-                MaxGeneration = 100,
-                Dimension = 10,
-                PopulationSize = 30,
                 FitnessCalculation = FitnessCalculation
             };
             var result = algorithm.Run();

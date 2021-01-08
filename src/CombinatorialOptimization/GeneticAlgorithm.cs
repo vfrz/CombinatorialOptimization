@@ -10,7 +10,7 @@ namespace CombinatorialOptimization
 
         public int Dimension { get; init; } = 10;
 
-        public int MaxGeneration { get; init; } = 1000;
+        public int MaxGeneration { get; init; } = 100;
 
         public double Pc { get; init; } = 0.75d;
 
