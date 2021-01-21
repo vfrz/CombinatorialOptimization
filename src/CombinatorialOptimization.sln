@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinatorialOptimization", "CombinatorialOptimization\CombinatorialOptimization.csproj", "{12D9612A-9911-4007-9F86-0B6AD37CEF4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSwarmOptimization", "ParticleSwarmOptimization\ParticleSwarmOptimization.csproj", "{25CC3FB9-3FEE-4F8F-A509-0941E586DB70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{12D9612A-9911-4007-9F86-0B6AD37CEF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D9612A-9911-4007-9F86-0B6AD37CEF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D9612A-9911-4007-9F86-0B6AD37CEF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CC3FB9-3FEE-4F8F-A509-0941E586DB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CC3FB9-3FEE-4F8F-A509-0941E586DB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CC3FB9-3FEE-4F8F-A509-0941E586DB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CC3FB9-3FEE-4F8F-A509-0941E586DB70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
